@@ -92,7 +92,7 @@ Enter Due Date (yyyy-MM-dd): 2025-06-15
 
 ### 📋 Viewing Tasks:
 ```
-Task ID: 101 | Title: Submit report | Status: PENDING | Due Date: 2025-06-15 | Priority: HIGH | Type: Work
+Task ID: 101 | Title: Submit report | Status: PENDING | Due Date: 2025-06-15 | Type: Work
 ```
 
 ---
