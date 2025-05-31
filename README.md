@@ -41,7 +41,7 @@ tasks.txt                   --> Data file for persisting tasks
 
 ### 🧰 Prerequisites
 
-- Java 17 or higher
+- Java 8 or higher
 - IDE (Optional): IntelliJ IDEA / Eclipse
 - Git (Optional)
 
@@ -99,18 +99,8 @@ Task ID: 101 | Title: Submit report | Status: PENDING | Due Date: 2025-06-15 | P
 
 ## 💡 Technologies Used
 
-- Java 17
+- Java 8 functionality
 - OOP Concepts (Inheritance, Abstraction, Polymorphism)
 - Exception Handling
 - Collections (ArrayList)
 - Enums
-
----
-
-## 📌 Future Improvements
-
-- [ ] Export tasks as JSON or CSV
-- [ ] Integrate with a GUI using JavaFX or Swing
-- [ ] Add task reminders with time
-- [ ] Color-coded output for different priorities
-- [ ] Search by Title or Due Date
